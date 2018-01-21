@@ -331,6 +331,7 @@ def instructions():
 
 myClock = time.Clock()
 screen = display.set_mode((WID, HEI))
+display.set_caption("Splitter")
 spawns = [[200,400], [100,400], [50 ,20]]
 players = []
 
