@@ -1,5 +1,5 @@
 #Splitter
-#By Matthew Farias and Nicholas Culmone
+#By Nicholas Culmone
 
 from pygame import *
 from math import *
